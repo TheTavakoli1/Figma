@@ -67,7 +67,7 @@
   z-index: 5;
 }
 .wrapper .header .topheader #show:checked ~ .right {
-  left: -4.6%;
+  left: -5%;
 }
 .wrapper .header .topheader #show, .wrapper .header .topheader #close {
   display: none;
