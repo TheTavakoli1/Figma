@@ -1,0 +1,7 @@
+@import url(./setting.css);
+@import url(./xs.css) only screen and (min-width: 0) and (max-width: 419px);
+@import url(./sm.css) only screen and (min-width: 420px) and (max-width: 767px);
+@import url(./md.css) only screen and (min-width: 768px) and (max-width: 991px);
+@import url(./lg.css) only screen and (min-width: 992px) and (max-width: 1199px);
+@import url(./xl.css) only screen and (min-width: 1200px) and (max-width: 1369px);
+@import url(./2xl.css) only screen and (min-width: 1370px);/*# sourceMappingURL=main.css.map */
